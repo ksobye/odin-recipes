@@ -1,0 +1,46 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: darkgray;
+}
+
+.container {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+a.buttonlink {
+    color: white;
+}
+
+a.buttonlink:hover {
+    font-weight: 800;
+}
+
+
+.home-button {
+    background-color: green;
+    color: white;
+    text-decoration: none;
+
+}
